@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">QR Scanner</string>
+
+    <!-- ScanActivity -->
+    <string name="scan_title">QR Scanner</string>
+    <string name="scan_subtitle">Scan, Generate &amp; Manage QR Codes</string>
+    <string name="btn_scan_camera">Scan with Camera</string>
+    <string name="btn_scan_gallery">Scan from Gallery</string>
+    <string name="btn_generate">Generate QR Code</string>
+    <string name="btn_history">View History</string>
+
+    <!-- ResultActivity -->
+    <string name="result_title">Scan Result</string>
+    <string name="label_content">Content</string>
+    <string name="label_type">Type</string>
+    <string name="btn_open_url">Open URL</string>
+    <string name="btn_open_email">Send Email</string>
+    <string name="btn_call">Call</string>
+    <string name="btn_open_map">Open Maps</string>
+    <string name="btn_add_contact">Add Contact</string>
+    <string name="btn_copy">Copy Text</string>
+    <string name="btn_share">Share</string>
+    <string name="copied_to_clipboard">Copied to clipboard!</string>
+    <string name="saved_to_history">Saved to history</string>
+
+    <!-- GenerateActivity -->
+    <string name="generate_title">Generate QR</string>
+    <string name="hint_generate_input">Enter text, URL, email, or phone…</string>
+    <string name="btn_generate_qr">Generate</string>
+    <string name="btn_save_qr">Save Image</string>
+    <string name="btn_share_qr">Share Image</string>
+    <string name="qr_saved_success">QR image saved to gallery!</string>
+    <string name="qr_save_failed">Failed to save image</string>
+    <string name="enter_text_first">Please enter some text first</string>
+
+    <!-- HistoryActivity -->
+    <string name="history_title">History</string>
+    <string name="history_empty">No history yet.\nScan a QR code to get started!</string>
+    <string name="delete_confirm">Delete this item?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="history_cleared">Item deleted</string>
+
+    <!-- QR Types -->
+    <string name="type_url">URL</string>
+    <string name="type_email">Email</string>
+    <string name="type_phone">Phone</string>
+    <string name="type_location">Location</string>
+    <string name="type_contact">Contact</string>
+    <string name="type_text">Text</string>
+
+    <!-- Errors -->
+    <string name="error_no_qr_found">No QR code found in image</string>
+    <string name="error_decode_failed">Failed to decode QR code</string>
+    <string name="error_no_camera_app">No camera app found</string>
+    <string name="error_no_app">No app available for this action</string>
+    <string name="permission_required">Permission required to use this feature</string>
+</resources>

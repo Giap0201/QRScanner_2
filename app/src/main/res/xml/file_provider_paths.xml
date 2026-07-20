@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path name="qr_images" path="qr_images/" />
+    <external-files-path name="qr_saved" path="Pictures/" />
+</paths>

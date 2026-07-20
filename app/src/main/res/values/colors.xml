@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Background -->
+    <color name="bg_dark">#0D1117</color>
+    <color name="bg_card">#161B22</color>
+    <color name="bg_surface">#21262D</color>
+
+    <!-- Accent – Teal -->
+    <color name="accent_teal">#00BCD4</color>
+    <color name="accent_teal_dark">#0097A7</color>
+    <color name="accent_teal_light">#4DD0E1</color>
+
+    <!-- Secondary Accent – Purple -->
+    <color name="accent_purple">#7C3AED</color>
+    <color name="accent_purple_light">#A78BFA</color>
+
+    <!-- Success / Warning / Error -->
+    <color name="color_url">#00BCD4</color>
+    <color name="color_email">#F59E0B</color>
+    <color name="color_phone">#10B981</color>
+    <color name="color_location">#EF4444</color>
+    <color name="color_contact">#8B5CF6</color>
+    <color name="color_text">#6B7280</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8B949E</color>
+    <color name="text_hint">#484F58</color>
+
+    <!-- Borders / Dividers -->
+    <color name="border_color">#30363D</color>
+
+    <!-- Status Bar -->
+    <color name="status_bar">#0D1117</color>
+
+    <!-- Legacy names expected by the default theme -->
+    <color name="purple_200">#A78BFA</color>
+    <color name="purple_500">#7C3AED</color>
+    <color name="purple_700">#5B21B6</color>
+    <color name="teal_200">#4DD0E1</color>
+    <color name="teal_700">#0097A7</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
